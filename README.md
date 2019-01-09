@@ -12,7 +12,7 @@ npm install --save react-powerbi
 Include
 
 ```javascript
-import { Report } from 'react-powerbi';
+import Report from 'react-powerbi';
 ```
 
 Render component
